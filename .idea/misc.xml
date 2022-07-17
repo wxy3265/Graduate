@@ -3,9 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/work-space/Graduate/app/src/main/res/layout/activity_info.xml" value="0.1953125" />
+        <entry key="..\:/work-space/Graduate/app/src/main/res/layout/activity_info.xml" value="0.4" />
         <entry key="..\:/work-space/Graduate/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
         <entry key="..\:/work-space/Graduate/app/src/main/res/layout/activity_sendpage.xml" value="0.39947916666666666" />
+        <entry key="..\:/work-space/Graduate/app/src/main/res/xml/network_config.xml" value="0.3541666666666667" />
       </map>
     </option>
   </component>

@@ -10,48 +10,54 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="主界面"
-        android:textSize="60dp"
+        android:textSize="60sp"
         android:gravity="center"/>
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="开发者已登录"
-        android:textSize="20dp"
+        android:textSize="20sp"
         android:gravity="center"/>
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/mbutton_info"
         android:text="我的信息"
-        android:textSize="25dp"/>
+        android:textSize="25sp" />
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/mbutton_book"
         android:text="我的纪念册"
-        android:textSize="25dp"/>
+        android:textSize="25sp"/>
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/mbutton_send"
         android:text="送出纪念页"
-        android:textSize="25dp"/>
+        android:textSize="25sp"/>
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/mbutton_ask"
         android:text="索要纪念页"
-        android:textSize="25dp"/>
+        android:textSize="25sp"/>
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/mbutton_map"
         android:text="蹭饭地图（正在开发）"
-        android:textSize="25dp"/>
+        android:textSize="25sp"/>
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/mbutton_log"
         android:text="登录/退出登录"
-        android:textSize="25dp"/>
+        android:textSize="25sp"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/mbutton_db"
+        android:text="重置数据库"
+        android:textSize="25sp"/>
 </LinearLayout>
